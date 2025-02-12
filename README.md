@@ -12,9 +12,9 @@
 </p> 
 
 - 🏢 I'm a Full-stack .Net Web Developer
-- 👨‍💻 As a trainee, I'm constantly learning and exploring new technologies to improve my skills.
-- 💬 Ask me about my experience with C#, SQL Server, Javascript,or Angular.
-- ⚡ Fun Fact: I'm a Tea enthusiast and my perfect day would start a cup of tea.
+- 👨‍💻 I'm constantly learning and exploring new technologies to improve my skills.
+- 💬 Ask me about my experience with C#, SQL Server, MVC Core, or Angular.
+- ⚡ Fun Fact: I'm a Tea enthusiast and my perfect day would start with sa cup of tea.
 
 
 ### Connect with Me :
